@@ -123,4 +123,5 @@ Bugs/Enhancement
 * Colors! Colors!
 * Integration with tools like gef or peda
 * When program finishes, you can see a python exception: this is harmless
-* the `go` command already exists inside gdb.
+* the `go` command already exists inside gdb. If you need it, rename the
+`go` command in my script.
